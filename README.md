@@ -7,3 +7,5 @@ example: "page tel aviv university"
 
 images command - downloads all images from page to /master/downloads/"page name"/
 summary - prints summary of page
+url - prints url
+references - prints references
