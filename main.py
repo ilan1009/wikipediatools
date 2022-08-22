@@ -57,3 +57,6 @@ while not quitCommand:
 
     elif commandInput == 'url':
         print(page.url)
+
+    elif commandInput == 'references':
+        print(*page.references, sep='\n')
