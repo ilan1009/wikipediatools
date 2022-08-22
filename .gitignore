@@ -1,0 +1,6 @@
+venv/
+downloads/
+apicache-py3/
+.idea/
+pywikibot.lwp
+throttle.ctrl
